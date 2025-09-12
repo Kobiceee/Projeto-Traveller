@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-attachment: fixed;
+    background-image: url(../imgRIO/fundo\ de\ telarj.jpg);
+    background-size: cover;
+    font-family:arial, verdana, tahoma;
+    font-size: 15px;
+    color: white;
+}    
+p, h2, h3, h4{
+    font-size: 15px;
+    font-family: arial, tahoma, verdana;
+}
+
+#container{
+    width: 900px;
+    border: 1px solid gray;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(67 64 85 / 40%);
+    color: white;
+    border-radius: 5px;
+}
+
+a:hover{
+  background-color: #6c86e566;
+  border-radius: 5px;
+  color: black;  
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h2, h4, h5, h6{font-size:20px;
+        font-family:arial, verdana, tahoma; 
+        color: black;
+        text-align: center;
+        background-color: rgb(53 50 62 / 69%);
+        border-radius: 0px 20px 20px 0px;
+        border-bottom: 1px solid gray;
+        margin: 10px;}
+
+p{text-indent: 20px;  
+    font-family: arial, tahoma, verdana;
+    margin: 20px 75px 25px 10px; 
+    text-align: left;
+    text-indent: 40px;
+}
+.titulo{text-shadow: 1px 1px black;
+        text-align: center;
+        font-size: 40px;
+
+}
